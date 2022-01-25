@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Le flash sports du 23 décembre",
+      "description": "Retrouvez l'essentiel de l'actualité sportive avec notre flash sports quotidien.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-23-decembre/1306873",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001585440/0:0,1498:999-640-427-75/9101c.jpg",
+      "publishedAt": "2021-12-22T23:20:00+00:00",
+      "content": "Le Paris Saint-Germain a évité de justesse la défaite à Lorient mercredi soir en Ligue 1. Match nul également pour Marseille et pour Lyon. Clément Noël à deux doigts de remporter le slalom de Madonna… [+149 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By Forrest Brown, CNN",
+      "title": "US passports fees are about to pop way up",
+      "description": "On December 27, the fee for a US passport book will shoot up by $20 for all customers, the US State Department has announced.",
+      "url": "http://us.cnn.com/travel/article/us-passport-fee-increase/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211222142800-us-passports-090420-restricted-super-tease.jpg",
+      "publishedAt": "2021-12-22T21:12:50Z",
+      "content": "Top image of US passports by Jim Lo Scalzo/EPA-EFE/ShutterstockCNN's Anneken Tappe contributed to this article."
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "13 Best Gaming Mice and Mousepads (2021): Wireless, Wired, and Under $50",
+      "description": "Whether you're into esports or casual fragging, these are the greatest gaming mice we’ve tested.",
+      "url": "https://www.wired.com/gallery/best-gaming-mouse",
+      "urlToImage": "https://media.wired.com/photos/5e20c99895f6500008e52651/191:100/w_2580,c_limit/Gear-SteelSeries-Sensei-Ten-Source-SteelSeries.jpg",
+      "publishedAt": "2019-08-17T12:00:00Z",
+      "content": "Picking a gaming mouse is a very personal endeavor. Everyone's hands are different, everyone's preferences and needs are different, and we all play different games. That's why we're lucky to live in … [+1043 chars]"
+    }
+  ]
+}
